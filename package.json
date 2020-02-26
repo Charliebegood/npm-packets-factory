@@ -1,0 +1,19 @@
+{
+  "name": "npm-packets-factory",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Charliebegood/npm-packets-factory.git"
+  },
+  "author": "Charles Aubert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Charliebegood/npm-packets-factory/issues"
+  },
+  "homepage": "https://github.com/Charliebegood/npm-packets-factory#readme"
+}
